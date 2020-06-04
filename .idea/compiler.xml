@@ -9,5 +9,6 @@
         <module name="design-patterns-java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="14" />
   </component>
 </project>
